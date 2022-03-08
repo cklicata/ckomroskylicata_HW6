@@ -18,4 +18,11 @@
 		<img src="CFE38F89-425B-41F9-9B5D-70E906773ED2.jpg" alt="Image of woman in front of purple tapestry with cropped bangs holding a mug wearing a bandana, a black shirt, and grey sweater." height="300">
 		<img src="136B0153-1EDB-49E4-9729-B87D82C04955.JPG" alt="Image of a woman wearing a black top and white apron, laughing and chopping apples." height="300">
 	</body>
+	<ul>
+  		<li>Digital (Photoshop)</li>
+  		<li>Traditional Ink</li>
+  		<li>Sculpture, polymer</li>
+  		<li>Paint, acrylic</li>
+	</ul>
+
 </html> 
