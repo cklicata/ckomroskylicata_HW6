@@ -8,6 +8,8 @@
 	<body>
 		<h1>About Me</h1>
 		<a href="second.html">My Hobbies and Personal Life</a>
+		<a href="https://github.com/cklicata">My Github</a>
+		<a href="https://www.linkedin.com/in/ck-licata/"><My LinkedIn</a>
 
 		<p>I am a senior business analytics and information systems major, also pursuing a creative writing certificate from the Magid Center through the publishing track at the University of Iowa. </p>
 
@@ -51,4 +53,4 @@
 
 </html> 
 
-  
+ 
