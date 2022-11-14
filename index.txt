@@ -10,46 +10,10 @@
 		<a href="second.html">My Hobbies and Personal Life</a>
 		<a href="https://github.com/cklicata">My Github</a>
 		<a href="https://www.linkedin.com/in/ck-licata/"><My LinkedIn</a>
+		<a href="notesapppoetry.html"><My Submit Your Notes App Poetry</a>
 
-		<p>I am a senior business analytics and information systems major, also pursuing a creative writing certificate from the Magid Center through the publishing track at the University of Iowa. </p>
-
-		<p>My writing has been published in multiple student publications, including Horizon and Sanct Literary Magazine. I have also been an art editor for the first issue of Zenith Magazine, and a section Editor for a local student Anthology. Currently, I am an editor for the 6th annual Iowa Chapbook Prize.</p>
-
-		<p>Aside from my creative feats, I have also worked on various group projects utilizing R Studio, SQL, and Python. Most recently, my teams have generated an in-depth analysis on features of houses in Ames which have the largest impacts on price, and I am currently working with a health insurance company to pinpoint consumer features which have a lasting impact on health, in order to match them with the most beneficial insurance claim.</p>
-	<h2>My Current Enrollments at the University of Iowa</h2>
+		<p>I am a 2022 graduate from the University of Iowa, where I obtained my Bachelor of Business Administration in business analytics with a speciality information systems, as well as a certificate in creative writing on the publishing track. </p>
 	</body>
-	<table>
-  		<tr>
-    			<th>Class</th>
-    			<th>Instructor</th>
-    			<th>School</th>
-  		</tr>
-  		<tr>
-    			<td>Digital Product Management</td>
-    			<td>Mike Colbert</td>
-    			<td>Tippie College of Business</td>
-  		</tr>
-  		<tr>
-			<td>Optimization and Simulation Modeling</td>
-    			<td>Beste Basciftci</td>
-    			<td>Tippie College of Business</td>
-  		</tr>
-  		<tr>
-    			<td>Bus Analytics & Info Systems Capstone</td>
-    			<td>Mike Altemeier</td>
-    			<td>Tippie College of Business</td>
-  		</tr>
-  		<tr>
-    			<td>Book Design for Publishing</td>
-    			<td>Katie Kiesewetter</td>
-    			<td>College of Liberal Arts and Sciences</td>
-  		</tr>
-  		<tr>
-    			<td>Publishing Practicum: IA Chapbook Prize</td>
-    			<td>Daniel Khalastchi</td>
-    			<td>The Magid Center: College of Liberal Arts and Sciences</td>
-  		</tr>
-	</table>
 
 </html> 
 
