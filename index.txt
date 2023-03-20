@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+        <meta charset="utf-8"/>
+		<title>Charlotte Komrosky-Licata</title>
+    		<link rel="stylesheet" type="text/css" href="stylesheet.css">
+	</head>
+	<body>
+		<h1>About Me</h1>
+		<a href="second.html">My Hobbies and Personal Life</a>
+		<a href="https://github.com/cklicata">My Github</a>
+		<a href="https://www.linkedin.com/in/ck-licata/"><My LinkedIn</a>
+		<a href="notesapppoetry.html"><My Submit Your Notes App Poetry</a>
+
+		<p>I am a 2022 graduate from the University of Iowa, where I obtained my Bachelor of Business Administration in business analytics with a speciality information systems, as well as a certificate in creative writing on the publishing track. </p>
+	</body>
+
+</html> 
+
+ 
